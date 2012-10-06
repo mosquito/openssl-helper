@@ -1,0 +1,3 @@
+1. Run "./generate" without params first time
+2. Run "./generate Client001" for generating keys for name client "Client001"
+3. See certdb for you sertificate archive
